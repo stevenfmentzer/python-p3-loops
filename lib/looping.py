@@ -25,4 +25,4 @@ def fizzbuzz():
             print("Buzz")
         else: 
             print(count)
-        count -= 1
+        count += 1
